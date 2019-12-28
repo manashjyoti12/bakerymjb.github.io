@@ -1,0 +1,39 @@
+.brands {
+  color: #313437;
+  background-color: #fff;
+}
+
+.brands a {
+  display: block;
+  text-align: center;
+  padding: 40px 0;
+}
+
+@media (max-width:767px) {
+  .brands a {
+    padding: 30px 0;
+  }
+}
+
+.brands a img {
+  display: inline-block;
+  margin: 10px 20px;
+  vertical-align: middle;
+}
+
+p {
+  margin: 0 0 11px;
+  font-size: 25px;
+}
+
+#why .item p {
+  color: #bac5c6;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+.h4, h4 {
+  text-align: center;
+}
+
